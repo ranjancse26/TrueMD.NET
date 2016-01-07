@@ -3,7 +3,12 @@ TrueMD Restful .NET API
 
 ## Synopsis
 
-This project is about TrueMD .NET Library. It's build to consume TrueMD API. This library depends on JSON.NET (http://www.newtonsoft.com/json) for deserializing the JSON object.
+A .NET Library for TrueMD (http://www.truemd.in/)
+
+Built to consume TrueMD API. This library depends on JSON.NET (http://www.newtonsoft.com/json) for deserializing the JSON object.
+
+Please read this blog for more info - https://www.quora.com/profile/Aayush-Jain-3/Posts/Let-me-show-you-a-magic-trick?srid=527C&share=1
+http://www.truemd.in/api/documentation
 
 ## Code Example
 
