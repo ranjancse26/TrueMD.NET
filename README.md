@@ -1,6 +1,11 @@
 # TrueMD.NET
 TrueMD Restful .NET API
 
+Inspired by Satyamev Jayate's Asar: Aamir Khan bats for generic medicines - 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lRVr44ZYDL4" target="_blank"><img src="http://img.youtube.com/vi/lRVr44ZYDL4/0.jpg" 
+alt="Satyamev Jayate's Asar: Aamir Khan bats for generic medicines" width="240" height="180" border="10" /></a>
+
 ## Synopsis
 
 A .NET Library for TrueMD (http://www.truemd.in/)
