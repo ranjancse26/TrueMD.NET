@@ -117,3 +117,15 @@ The following are the list of contributors
 ## License
 
 Apache
+
+## Credits
+
+The Generic drug database is being maintained by the TrueMD team :
+
+<ul>
+<li><a href="mailto:aayush0706@gmail.com">Aayush Agarwal</a></li>
+<li><a href="mailto:jainaayush05@gmail.com">Aayush Jain</a></li>
+<li><a href="mailto:adbhut091@gmail.com">Adbhut Gupta</a></li>
+<li><a href="mailto:adijagjoshi@gmail.com">Aditya Joshi</a></li>
+<li><a href="mailto:yash6992@gmail.com">Yashvardhan Srivastava</a></li>
+</ul>
