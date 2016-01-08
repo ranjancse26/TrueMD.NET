@@ -96,7 +96,7 @@ The main motivation behind this project is, as of today the .NET Library for Tru
 
 ## Installation
 
-Just build the "TrueMDLib" library and then include the reference in your application.
+Just build the "TrueMDLib" library and then include as a reference to your application.
 
 ## API Reference
 
@@ -106,7 +106,7 @@ http://www.truemd.in/api/documentation
 
 ## Tests
 
-Don't have a unit test project but the console application should do it's job.
+Don't have a unit test project for now. But the console application should do it's job.
 
 ## Contributors
 
